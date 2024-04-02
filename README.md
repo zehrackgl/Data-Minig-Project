@@ -1,1 +1,1 @@
-# Data-Minig-Project
+# Data Minig Term Project
